@@ -2667,3 +2667,17 @@ section {
 .footer .credits a {
   color: #fff;
 }
+
+.img-fluid{
+  height:500px;
+  width:400px;
+}
+.hero{
+  background-color: #7AA874;
+}
+#header{
+  background-color: #7AA874;
+}
+.icon-box{
+  background-color: #7AA874;
+}
