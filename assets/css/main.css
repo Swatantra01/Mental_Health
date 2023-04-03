@@ -2681,6 +2681,13 @@ section {
 .icon-box{
   background-color: #7AA874;
 }
+.img{
+  width:300px;
+  height:600px;
+}
+#faq{
+  color:rgb(69, 69, 69);
+}
 
 
 
