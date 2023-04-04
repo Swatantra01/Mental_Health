@@ -13920,4 +13920,29 @@ body {
 .yp-image{
   padding: 80px;
 }
+.mentor-1{
+  width:400px;
+  height:400px;
+  margin-left:150px;
+  
+}
+.mentor-2{
+  padding-bottom:50px;
+}
+.mentor-3{
+  width:500px;
+  height: 500px;
+}
+#testimonials{
+  background-color: #535050;
+  color:#fff;
+  height:400px;
+  margin-left: 0;
+}
+.carousel-item{
+  text-align: center;
+}
+#mainNav{
+  background-color:#535050 ;
+}
 
